@@ -1,5 +1,6 @@
 
 ## Introduction
+
 Overview
 In an increasingly data-driven world, the ability to extract meaningful insights from complex datasets is not just an advantage but a necessity for businesses aiming to thrive in a competitive landscape. This report presents a comprehensive data analysis conducted on a rich dataset encompassing 51,290 entries across 27 columns, representing a wide array of variables from categories, customer details, to financial metrics. The primary goal of this analysis is to uncover underlying patterns, trends, and relationships within the data that can inform strategic decision-making, enhance operational efficiency, and drive growth.
 
@@ -11,9 +12,34 @@ Our approach involves a systematic examination of the dataset through various st
 
 In the following sections, we will outline the methodology employed in this analysis, detail the steps involved in preparing and visualizing the data, present our key findings, discuss the limitations of our approach, offer recommendations based on our insights, and conclude with a summary of the implications of our analysis for the business.
 
+## Visualisation
+
+![22](https://github.com/tuerkerme/sales_data_storytelling/assets/149696414/7b94dc41-7e1e-4bfd-921c-59fba9fb4c18)
+![21](https://github.com/tuerkerme/sales_data_storytelling/assets/149696414/c6e49154-1b23-4dd2-a3ef-402b095d8fa2)
+![20](https://github.com/tuerkerme/sales_data_storytelling/assets/149696414/9da76412-3b35-49d2-9e40-5fca4a3e9ad1)
+![19](https://github.com/tuerkerme/sales_data_storytelling/assets/149696414/c9c5779e-8d71-43b4-a78f-dc3e7470f379)
+![18](https://github.com/tuerkerme/sales_data_storytelling/assets/149696414/3bf8e661-666f-461e-82ee-0264c7f97112)
+![17](https://github.com/tuerkerme/sales_data_storytelling/assets/149696414/c8ec28ce-4655-4fc8-93a0-6a8e818e93cb)
+![16](https://github.com/tuerkerme/sales_data_storytelling/assets/149696414/d04ef60e-d5bd-40b6-8cd9-f05fcea62314)
+![15](https://github.com/tuerkerme/sales_data_storytelling/assets/149696414/55c3ae52-4a6b-4500-91a2-097f7501f2eb)
+![14](https://github.com/tuerkerme/sales_data_storytelling/assets/149696414/ed0fc7ed-55aa-4102-b240-79d4a8310743)
+![13](https://github.com/tuerkerme/sales_data_storytelling/assets/149696414/10f9ada5-68dd-4ee7-8246-081e060a82f5)
+![12](https://github.com/tuerkerme/sales_data_storytelling/assets/149696414/6641e0ab-72b6-491e-8547-c84ed50adee9)
+![11](https://github.com/tuerkerme/sales_data_storytelling/assets/149696414/a86f84e8-55ec-4d38-bfad-963c8b393a53)
+![10](https://github.com/tuerkerme/sales_data_storytelling/assets/149696414/4c5d1a85-562b-4531-8715-009fbe48abc5)
+![9](https://github.com/tuerkerme/sales_data_storytelling/assets/149696414/cf6631f1-3fde-435e-a6cb-c79d73d0aac2)
+![8](https://github.com/tuerkerme/sales_data_storytelling/assets/149696414/c3621291-5bd7-49b3-bcf4-cd38836a9ecd)
+![7](https://github.com/tuerkerme/sales_data_storytelling/assets/149696414/fc14ccb9-f7c2-4c72-92bb-8a1892704457)
+![6](https://github.com/tuerkerme/sales_data_storytelling/assets/149696414/a8fc119c-acd9-4c8b-bfd1-1b4360ec130d)
+![5](https://github.com/tuerkerme/sales_data_storytelling/assets/149696414/5811cfd7-c72b-42a8-bc3a-342e8ee043a4)
+![4](https://github.com/tuerkerme/sales_data_storytelling/assets/149696414/dca4984b-a09e-43ea-94a7-34b301f666df)
+![3](https://github.com/tuerkerme/sales_data_storytelling/assets/149696414/ea394ed5-649f-4b2a-a9e0-6ce75d94a478)
+![2](https://github.com/tuerkerme/sales_data_storytelling/assets/149696414/7f24cdad-4a1d-4d28-bebb-552634e83101)
+![1](https://github.com/tuerkerme/sales_data_storytelling/assets/149696414/00922fd2-9774-42eb-84f0-dd2a6521d7d2)
 
 
-#### Data Analysis Steps:
+## Data Analysis Steps:
+
 1.	Data Loading and Initial Exploration: Load the data to understand its structure, size, and the types of variables it contains.
 2.	Data Cleaning and Preprocessing: Check for and address any issues with data quality, such as missing values, duplicate entries, or inconsistent formatting.
 3.	Exploratory Data Analysis (EDA): Perform an in-depth analysis to uncover patterns, anomalies, trends, and relationships within the data.
@@ -85,7 +111,6 @@ The summary of the data cleaning process outcomes:
 •	Similar to sales, there is an upward trend in profits as well.
 
 •	This suggests that not only is the business growing in terms of sales, but it's also becoming more profitable.
-
 
 
 #### 2. Sales and Profit Analysis by Category
@@ -400,9 +425,8 @@ Insights and Recommendations:
 
 2.	Impact of Shipping Mode on Sales and Profit: Investigate how different shipping modes (such as standard, second class, first class, same day) affect sales and profit. This can provide insights into operational efficiencies and customer preferences.
 
-Let's begin with the analysis of the geographic distribution of customers. We'll examine the number of customers, sales, and profit by city and state. This analysis will help us understand which regions are most important for the business and where there might be opportunities for growth.
   
-Geographic Distribution of Customers and Impact of Shipping Mode Analysis
+#### Geographic Distribution of Customers and Impact of Shipping Mode Analysis
 
 1. Geographic Distribution of Customers
 
@@ -456,8 +480,6 @@ Insights and Recommendations:
    
 #### Product Category and Sub-Category Analysis & Order Priority Impact Analysis
 
-
-
 1. Product Category and Sub-Category Analysis
 
 •	Sales by Category and Sub-Category:
@@ -508,8 +530,6 @@ Insights and Recommendations:
 
 2.	Time Taken for Shipping and Its Impact on Sales: Investigate the relationship between the time taken to ship an order and its impact on sales. This analysis can shed light on the importance of shipping speed to customers and its influence on purchasing decisions.
 
-
-  
 #### Customer Spending Patterns and Shipping Time Impact Analysis
 
 
@@ -594,10 +614,12 @@ Insights and Recommendations:
 •	Tailor strategies for each category and region based on their profitability. This could include differentiated pricing strategies, cost management, and targeted marketing.
 
 ## Statistical Analysis and Econometric Modeling
-Overview
+
+### Overview
 The Statistical Analysis and Econometric Modeling section of this report details the quantitative methods used to dissect and understand the complex relationships within the dataset. This approach leverages statistical techniques and econometric models to draw meaningful inferences, test hypotheses, and forecast trends based on the data.
 
-Methodology
+### Methodology
+
 Descriptive Statistics: Initially, we performed a comprehensive descriptive analysis to understand the basic features of the data. This involved calculating measures such as mean, median, standard deviation, and range for quantitative variables, and frequency counts for categorical variables. This step provided an initial understanding of the data distribution and key characteristics.
 
 Correlation Analysis: To explore relationships between variables, we conducted correlation analysis. This helped in identifying potential associations or dependencies between different factors like sales, profits, discounts, and shipping costs.
@@ -610,12 +632,16 @@ Econometric Modeling: To address specific business questions and hypothesized re
 
 Segmentation and Cluster Analysis: Customer segmentation was achieved through cluster analysis, allowing us to categorize customers into distinct groups based on their purchasing behavior, demographics, and other relevant characteristics. This helped in understanding different customer profiles and their contribution to sales and profits.
 
-Tools and Software Used
-The analysis was conducted using advanced statistical software and programming languages such as R and Python. These tools provided the necessary capabilities for complex statistical modeling, machine learning algorithms, and visualization of the results.
 
-Key Considerations
-Model Selection: Care was taken to choose appropriate models that best fit the data and the analysis objectives. Model adequacy was tested using various diagnostic tools and metrics like R-squared, AIC (Akaike Information Criterion), and BIC (Bayesian Information Criterion).
+### Key Considerations
+
+Model Selection: Care was taken to choose appropriate models that best fit the data and the analysis objectives. 
+
 Assumption Testing: For each model used, assumptions such as normality, homoscedasticity, independence, and absence of multicollinearity were tested and ensured.
+
 Sensitivity Analysis: We conducted sensitivity analyses to assess the robustness of our models against changes in assumptions or input variables.
-Conclusion
+
+### Conclusion
+
 The statistical analysis and econometric modeling provided deep insights into the data, revealing intricate patterns and relationships that would otherwise be unobservable. These findings are pivotal in driving data-informed decisions and strategic planning for the business. The next sections will discuss the findings from these analyses in detail, along with their implications for business strategy and operations.
+
